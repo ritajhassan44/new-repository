@@ -49,7 +49,7 @@ namespace WpfApp4 {
         #line hidden
         
         
-        #line 30 "..\..\Page4.xaml"
+        #line 31 "..\..\Page4.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid Data_grid_tasks;
         
@@ -57,7 +57,7 @@ namespace WpfApp4 {
         #line hidden
         
         
-        #line 37 "..\..\Page4.xaml"
+        #line 38 "..\..\Page4.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.DataGrid Data_grid_complete_tasks;
         
@@ -65,7 +65,7 @@ namespace WpfApp4 {
         #line hidden
         
         
-        #line 43 "..\..\Page4.xaml"
+        #line 44 "..\..\Page4.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox TaskID_field;
         
@@ -73,7 +73,7 @@ namespace WpfApp4 {
         #line hidden
         
         
-        #line 44 "..\..\Page4.xaml"
+        #line 45 "..\..\Page4.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ComboBox Combo_box;
         
@@ -127,7 +127,7 @@ namespace WpfApp4 {
             return;
             case 6:
             
-            #line 49 "..\..\Page4.xaml"
+            #line 50 "..\..\Page4.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.Save_button);
             
             #line default
